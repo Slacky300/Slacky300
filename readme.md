@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khan Rehman</h1>
-<h3 align="center">A passionate django developer and also a DSA enthusiast</h3>
+<h3 align="center">A passionate backend developer and also a DSA enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slacky300&label=Profile%20views&color=0e75b6&style=flat" alt="slacky300" /> </p>
 
