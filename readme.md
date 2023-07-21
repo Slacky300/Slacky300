@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://github.com/Slacky300/Slacky300/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![snake gif](https://github.com/Slacky300/Slacky300/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
