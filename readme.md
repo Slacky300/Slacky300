@@ -43,7 +43,7 @@
 <div align ="center">
   <img align="right" class = "image-fluid" height="175" src="https://pbs.twimg.com/media/FAEdPD2XMAAz8vk.jpg"  />
 
-###
+
 
 <img src="https://raw.githubusercontent.com/Slacky300/Slacky300/output/snake.svg" class = "image-fluid" alt="Snake animation" />
 </div>
