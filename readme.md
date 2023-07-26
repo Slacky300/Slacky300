@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Slacky300/count.svg?"  />
 </div>
@@ -40,20 +38,18 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="175" src="https://pbs.twimg.com/media/FAEdPD2XMAAz8vk.jpg"  />
 
 ###
 
-<img src="https://github.com/Slacky300/Slacky300/blob/output/snake.svg" width = "700" height = "175" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Slacky300/Slacky300/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slacky300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slacky300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Slacky300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
