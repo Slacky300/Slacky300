@@ -1,4 +1,6 @@
-<div align="center">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<div align="center d-flex justify-content-center align-items-center">
   <img src="https://profile-counter.glitch.me/Slacky300/count.svg?"  />
 </div>
 
@@ -38,11 +40,11 @@
 
 ###
 
-<img align="right" height="175" src="https://pbs.twimg.com/media/FAEdPD2XMAAz8vk.jpg"  />
+<img align="right" class = "image-fluid" height="175" src="https://pbs.twimg.com/media/FAEdPD2XMAAz8vk.jpg"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Slacky300/Slacky300/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Slacky300/Slacky300/output/snake.svg" class = "image-fluid" alt="Snake animation" />
 
 ###
 
