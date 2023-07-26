@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://github.com/Slacky300/Slacky300/blob/output/snake.svg" width = "350" alt="Snake animation" />
+<img src="https://github.com/Slacky300/Slacky300/blob/output/snake.svg" width = "700" height = "200" alt="Snake animation" />
 
 ###
 
