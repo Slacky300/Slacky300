@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Hacker</h1>
+<h1 align="left">Hi 👋, I'm Khan Rehman</h1>
 
 ###
 
