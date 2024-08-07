@@ -1,61 +1,90 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <title>Khan Rehman's GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    .profile-image {
+      width: 100%;
+    }
+    .skill-icons img {
+      margin: 10px;
+    }
+    .section-title {
+      margin: 20px 0;
+    }
+    .github-stats {
+      margin: 20px 0;
+    }
+    .connect-icons img {
+      margin: 10px;
+    }
+    .generated-by {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body class="bg-dark text-light">
+  <div class="container">
+    <div class="text-center my-4">
+      <img src="https://res.cloudinary.com/dvql0vhcn/image/upload/v1723047193/qifxaheasne02xwcxlw0.png" class="profile-image" alt="Profile Header" />
+    </div>  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Slacky300/count.svg?"  />
-</div>
+    <div class="text-center mb-4">
+       <span><img src="https://profile-counter.glitch.me/Slacky300/count.svg?"  /></span>
 
-###
+    </div>  
 
-<h1 align="left">Hi 👋, I'm Khan Rehman</h1>
+    <h2 class="section-title">About Me 👾</h2>
+    <p>
+      I'm a full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). 💻 I have extensive experience working in Linux-based environments, including DigitalOcean, AWS, and Azure. 🌐 I excel in solving complex problems and enjoy exploring and contributing to various open-source projects. 🔧 My passion lies in developing robust web applications and leveraging cloud platforms to deliver scalable and efficient solutions. 🚀
+    </p>
 
-###
+    <h2 class="section-title">My Skill Set</h2>
+    <div class="row skill-icons">
+      <div class="col-12 col-md-6 col-lg-4 text-center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 text-center">
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+        <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+        <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 text-center">
+        <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+        <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
+        <a href="https://www.nginx.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+      </div>
+    </div>
 
-<p align="left">Welcome to my GitHub profile! I am passionate about backend development, and I love to build robust web applications that leverage the power of Django, Node.js, and Express.js. Playing with databases and crafting efficient data models excites me, and I'm always eager to take on new challenges in the world of web development.</p>
+    
 
-###
+    <h2 class="section-title github-stats">GitHub Stats</h2>
+    <div class="text-center">
+      
+ 
+      <img src="https://streak-stats.demolab.com?user=Slacky300&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Slacky300&show_icons=true&count_private=true&hide_border=true&theme=dracula" class="my-4" alt="GitHub Stats" />
+    </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align ="center">
-   <div class = "row d-flex justify-content-center align-items-center">
-        <img align="right" class = "image-fluid" height="175" src="https://pbs.twimg.com/media/FAEdPD2XMAAz8vk.jpg"  />
-
-  <img src="https://raw.githubusercontent.com/Slacky300/Slacky300/output/snake.svg" class = "image-fluid" alt="Snake           animation" />
-   </div>
-</div>
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slacky300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slacky300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Slacky300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+    
+  </div>
+</body>
+</html>
